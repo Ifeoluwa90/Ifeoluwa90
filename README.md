@@ -20,7 +20,7 @@ I have a strong background in systems administration, with expertise in configur
 - **System Administration:** Backups, Disaster Recovery, Monitoring
 
 ## Certifications
-
+- Computer Science with a conc in Information security (BS) from SNHU
 - Microsoft Azure Fundamentals
 - CompTIA Security+
 - CISNT (Mayfield College)
@@ -29,7 +29,7 @@ I have a strong background in systems administration, with expertise in configur
 
 - 📧 Email: Ifeoluwaadewoyin90@gmail.com
 - 📱 Phone: 469-475-3781
-- 🌎 Location: Cedar Hill, TX
+- 🌎 Location: TX
 - 💼 LinkedIn: [linkedin.com/in/ifeoluwaadewoyin/](https://linkedin.com/in/ifeoluwaadewoyin/)
 - 📅 Schedule a meeting: [Calendly](https://calendly.com/ifeoluwaadewoyin)
 
